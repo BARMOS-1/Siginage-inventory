@@ -6,10 +6,10 @@ import 'onsenui/css/onsen-css-components.css';
 
 // 動画リスト
 const videoList = [
-  { id: 0, name: '支柱', ytid: 'u4z3tWNFF04' },
-  { id: 1, name: '手すり', ytid: 'u4z3tWNFF04' },
-  { id: 2, name: '先行手すり', ytid: 'u4z3tWNFF04' },
-  { id: 3, name: 'Sウォーク', ytid: 'u4z3tWNFF04' },
+  { id: 0, name: '支柱', ytid: 'PR_Gd8jxFwM' },
+  { id: 1, name: '手すり', ytid: 'PR_Gd8jxFwM' },
+  { id: 2, name: '先行手すり', ytid: 'PR_Gd8jxFwM' },
+  { id: 3, name: 'Sウォーク', ytid: 'PR_Gd8jxFwM' },
 ];
 
 const manualPages = [
